@@ -5,7 +5,7 @@
 
 <h4 align="left">About me:</h4>
 
-- I am an argentinian based in Denmark. 
+- I am an Argentinian/Spanish based in Denmark. 
 - :bulb: I speak spanish, english, italian and I am learning danish.
 - 🌱 I’m currently learning to code **at Hackyourfuture.**
 - 💖 Other things I will learn during this program: **Node.js, React.**
