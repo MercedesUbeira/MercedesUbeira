@@ -7,7 +7,8 @@
 
 - I am an Argentinian/Spanish based in Denmark. 
 - :bulb: I speak spanish, english, italian and I am learning danish.
-- 🌱 I’m currently learning to code **at Hackyourfuture.**
+- 🌱 Recently, I finished a Web Development course **at HackYourFuture.**
+- 🌱 I’m currently a Multimedia Design student **at Aarhus Business Academy.**
 - 💖 My favorite things to work with: React, Nextjs, CSS.
 - :handshake: I’m looking to collaborate on front-end projects for either web or mobile. 
 
